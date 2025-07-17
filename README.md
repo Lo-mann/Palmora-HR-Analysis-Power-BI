@@ -30,8 +30,9 @@ This project analyzes HR data for the Palmora Group to provide insights into emp
 
 ##  Key Findings
 - Gender imbalance in specific departments.
-  - Pay gap observed in Research and Development/Abuja].
-  - Some manufacturing roles fall below $90,000 threshold.
+  - Pay gap observed in Research and Development/Abuja]
+  - Palmoria group does not meet the regulatory requirement.
+  - Some manufacturing roles fall below $90,000 threshold
 - Clear structure developed for bonus allocation.
 
  ##  What I Learned
