@@ -52,6 +52,16 @@ The Palmora HR dashboard provides deep insights into salary and performance stru
 - *Microsoft Excel* – Data cleanup and transformation
 - *GitHub* – Version control and submission
 
+ AUTHOR 
+
+- Longmiel Manyil Bitrus
+
+manyillongmiel@gmail.com
+
+https://www.linkedin.com/in/longmiel-manyil-bitrus-273427244
+
+
+
 
 
 
